@@ -912,7 +912,7 @@ h1.title-page span {
 }
 
 .contact-form .input-group .input-group-addon i {
-	color: #979797;
+	color: #2196F3;
 	font-size: 26px;
 	width: 24px;
 	height: 24px;
@@ -948,7 +948,7 @@ h1.title-page span {
 }
 
 .btn {
-	border-radius: 0;
+	border-radius: 20px;
 }
 
 #gallery-thumbnail .item {
